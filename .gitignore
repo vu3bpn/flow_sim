@@ -1,0 +1,6 @@
+data/*
+*.tiff
+*.nc
+*.pickle
+*.data
+*.pyc
